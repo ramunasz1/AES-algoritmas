@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES algoritmas", "AES algoritmas\AES algoritmas.csproj", "{02C3B031-460A-4A58-B831-799D6E7945FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C3B031-460A-4A58-B831-799D6E7945FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C3B031-460A-4A58-B831-799D6E7945FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C3B031-460A-4A58-B831-799D6E7945FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C3B031-460A-4A58-B831-799D6E7945FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA8B5DD3-522B-4C49-9FD2-B739D34B4630}
+	EndGlobalSection
+EndGlobal

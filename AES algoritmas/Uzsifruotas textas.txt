@@ -1,0 +1,3 @@
+Plain Text: Mano sugalvotas tekstas
+Secret Key: ManoSlaptasraktas
+Encrypted Data (Base64): mfnqvjpaRt/B+fjISNU+8hDp+aAUruwNRvrjmgjfqKIeCTlenVZgUL26e8RUcAtj
